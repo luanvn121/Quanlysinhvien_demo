@@ -10,6 +10,15 @@ public class Student {
     private int age;
     private int sdt;
 
+
+
+
+
+
+
+
+
+
     public Student(int student_id, String name, String email, int age, int sdt) {
         this.student_id = student_id;
         this.name = name;
